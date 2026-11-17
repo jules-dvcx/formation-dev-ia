@@ -1,1 +1,2 @@
- date | n° | pattern | réussi seul | temps | appris
+| date | n° | pattern | réussi seul | temps | appris |
+|---|---|---|---|---|---|
